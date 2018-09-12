@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Xexinc here, I interesting about NativeScript.
+and I try to use GitHub.
